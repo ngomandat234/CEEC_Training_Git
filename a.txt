@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is test message from Dat ne version 4 (by Dat)
+=======
+This is test message from ABC ne version 4 (by ABC)
+>>>>>>> b4611eaad7e37097df9addb21e87a22fd851c04a
 
